@@ -1,0 +1,2 @@
+By inputting a test.txt file into stdin.
+Special chars and multiple space characters in a row would likely uncover bugs
